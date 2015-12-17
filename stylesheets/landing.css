@@ -16,6 +16,7 @@ HEADER
 .portrait{
     max-width:auto;
     max-height:250px;
+    background:brown;
 }
 
 .jumbotron{
@@ -23,6 +24,7 @@ HEADER
     margin-bottom:10px;
     height:500px;
     padding-top:50px;
+    background:red;
 }
 
 .portrait_name{
@@ -30,6 +32,7 @@ HEADER
     margin:0 auto;
     padding:20px;
     border-radius:20px;
+    background:orange;
 }
 
 /**********************************
@@ -43,6 +46,7 @@ MAIN CONTENT
 .thumbnail_image{
   max-height:200px;
   max-width:242px;
+  background:purple;
 }
 
 article{
@@ -51,6 +55,7 @@ article{
     padding:10px;
     border-radius:10px;
     margin-bottom:10px;
+    background:orange;
 }
 
 /**********************************
@@ -60,6 +65,7 @@ footer{
     height:100px;
     text-align:center;
     padding:20px;
+    background:orange;
 }
 
 /**********************************
@@ -84,11 +90,11 @@ Color 1:
 ***********************************/
 
 article{
-    background:#eee;
+    background:brown;
 }
 
 footer{
-    background:#eee;
+    background:brown;
 }
 
 .jumbotron{
